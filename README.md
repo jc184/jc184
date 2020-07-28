@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on my React / ASP.NET Core portfolio (as well as anything else Web Devvy that is worth a try): https://whispering-reaches-73646.herokuapp.com/
+- 🔭 I’m currently working on my React / ASP.NET Core portfolio (as well as anything else Web Devvy that is worth a try): https://whispering-reaches-73646.herokuapp.com/ , https://github.com/jc184/my-portfolio
 - 🌱 I’m currently learning various web dev / javascript / react / dotnet core / rails tutorials
 - 👯 I’m looking to collaborate on a potential ecommerce project using the simplCommerce platform. See https://github.com/simplcommerce/SimplCommerce
 - 🤔 I’m looking for help with advanced ASP.NET Core application questions
