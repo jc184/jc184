@@ -9,5 +9,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning various web dev / javascript / react / dotnet core / rails tutorials
 - 🤔 I’m looking for help with advanced ASP.NET Core application questions
 - 🤔 I’m on Twitter: http://twitter.com/jc1848
+- 🤔 I’m on StackOverflow: https://stackoverflow.com/users/story/5830202
 - 💬 Ask me about how to get started in Software Development if you are a beginner
 - 📫 How to reach me: email - <james.chalmers184@gmail.com> LinkedIn: https://www.linkedin.com/in/james-chalmers-a47a85a6/
