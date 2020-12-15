@@ -1,4 +1,5 @@
-### Hi there, my name is James Chalmers and I am a Software Developer / Web Developer who lives in Elgin, Moray, Scotland 👋
+### Hi there, my name is James Chalmers and I am a .NET Core Software Developer who lives in Elgin, Moray, Scotland 
+### I have recently got fixed up with a developer job for InCommunities in Shipley, near Leeds.👋
 
 <!--
 **jc184/jc184** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
