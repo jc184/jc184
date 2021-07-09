@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on my portfolio https://whispering-reaches-73646.herokuapp.com/ , https://github.com/jc184/my-portfolio
-- 🌱 I’m currently about to start learning Python
+- 🌱 I’m currently about to start refreshing my skills in ASP.NET Core and Angular
 - 🤔 I’m looking for help with advanced ASP.NET Core application questions
 - 🤔 I’m on Twitter: http://twitter.com/jc1848
 - 🤔 I’m on StackOverflow: https://stackoverflow.com/users/story/5830202
